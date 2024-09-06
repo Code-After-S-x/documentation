@@ -9,7 +9,7 @@ var options = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/docs/",
+  base: "/documentation/",
   lang: "en-US",
   title: "CAS - Documentation",
   description:
